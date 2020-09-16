@@ -1,0 +1,29 @@
+﻿
+{
+  "agenda": [
+    {
+      "agenda_id": "1",
+      "departamento": "União Feminina",
+      "programa": "Café da Manhã",
+      "inicio": "2020-04-26",
+      "ini_hrs": "09:00:00",
+      "fim": "",
+      "fin_hrs": "11:00:00",
+      "lugar": "Salão anexo da Igreja",
+      "alterou": "2020-04-14",
+      "igreja_id": "1"
+    },
+    {
+      "agenda_id": "2",
+      "departamento": "Grupo Jovem",
+      "programa": "Congresso de Jovens",
+      "inicio": "2020-05-02",
+      "ini_hrs": "18:00:00",
+      "fim": "2020-05-03",
+      "fin_hrs": "22:00:00",
+      "lugar": "Quadra Poli Esportiva do Alto das Colinas",
+      "alterou": "2020-04-14",
+      "igreja_id": "1"
+    }
+  ]
+}
