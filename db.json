@@ -2,7 +2,6 @@
 {
   "agenda": [
     {
-      "agenda_id": 1,
       "departamento": "União Feminina",
       "programa": "Café da Manhã",
       "inicio": "2020-04-26",
@@ -14,7 +13,6 @@
       "igreja": "Igreja Evangélica Betel"
     },
     {
-      "agenda_id": 2,
       "departamento": "Grupo Jovem",
       "programa": "Congresso de Jovens",
       "inicio": "2020-05-02",
